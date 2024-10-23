@@ -1,0 +1,9 @@
+Q: What has contributed to making the vision of computers understanding ordinary language and holding conversations with humans more plausible in the 21st century?
+
+A: The vision has become more plausible due to advancements in artificial intelligence techniques combined with the scientific study of language. These developments have led to various industrial and commercial applications, such as automatic translation, voice-activated commands on mobile phones, and search engines using linguistic techniques for query correction and result matching.
+
+
+
+Why is it often necessary to assign a part of speech (POS) to a word based on its function in context rather than its inherent meaning?
+
+A: It is necessary to assign a part of speech based on a word's function in context because many words can serve different roles depending on their use in a sentence. For example, the word "fish" can be a noun in one sentence ("John caught a fish") and a verb in another ("John likes to fish on the river bank"). Additionally, some verbs, like auxiliary verbs (e.g., "did," "shall"), serve a purely grammatical function without directly describing an action. Therefore, the POS often depends on context rather than inherent meaning.
